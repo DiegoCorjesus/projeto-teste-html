@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Médica</title>
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#home">Página Principal</a></li>
+				<li><a href="#sobre">Sobre a Clínica</a></li>
+				<li><a href="#horario">Horário de Atendimento</a></li>
+				<li><a href="#contato">Contato</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<section id="home">
+			<header>
+				<img src="imagem-home.jpg" alt="Imagem da clínica na página principal">
+			</header>
+			<h1>Clínica Médica</h1>
+			<p>Bem-vindo à Clínica Médica, onde cuidamos da sua saúde com excelência e dedicação. Agende sua consulta agora mesmo.</p>
+			<a href="#contato">Agendar Consulta</a>
+		</section>
+		
+		<section id="sobre">
+			<header>
+				<img src="imagem-sobre.jpg" alt="Imagem da clínica na página Sobre a Clínica">
+			</header>
+			<h2>Sobre a Clínica</h2>
+			<p>A Clínica Médica foi fundada em 2005 e desde então vem oferecendo atendimento médico de qualidade em diversas áreas, como cardiologia, neurologia, pediatria, entre outras. Contamos com uma equipe de profissionais altamente capacitados e equipamentos modernos para garantir o melhor diagnóstico e tratamento para nossos pacientes.</p>
+			<p>Estamos localizados na Rua dos Médicos, 123, no bairro Saúde, em São Paulo.</p>
+		</section>
+		
+		<section id="horario">
+			<header>
+				<img src="imagem-horario.jpg" alt="Imagem da clínica na página Horário de Atendimento">
+			</header>
+			<h2>Horário de Atendimento</h2>
+			<p>Estamos abertos de segunda a sexta-feira, das 8h às 18h, e aos sábados, das 8h às 12h.</p>
+			<p>Agendamentos podem ser feitos pelo telefone (11) 1234-5678 ou pelo e-mail contato@clinicamedica.com.br.</p>
+		</section>
+		
+		<section id="contato">
+			<header>
+				<img src="imagem-contato.jpg" alt="Imagem da clínica na página Contato">
+			</header>
+			<h2>Contato</h2>
+			<p>Para mais informações ou para agendar uma consulta, entre em contato conosco:</p>
+			<ul>
+				<li>Telefone: (11) 1234-5678</li>
+				<li>E-mail: contato@clinicamedica.com.br</li>
+				<li>Endereço: Rua dos Médicos, 123, Saúde, São Paulo</li>
+			</ul>
+		</section>
+	</main>
+	
+	<footer>
+	
+
+</body>
+</html>
+
